@@ -1,0 +1,6 @@
+agno
+groq
+duckduckgo-search
+yfinance
+python-dotenv
+ddgs
